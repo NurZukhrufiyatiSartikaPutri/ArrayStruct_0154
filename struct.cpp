@@ -7,3 +7,8 @@ struct mahasiswa
     string nama;
     string alamat;
 };
+
+int main(){
+    mahasiswa mhs;
+
+}
