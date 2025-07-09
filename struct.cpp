@@ -15,5 +15,13 @@ int main(){
     mhs.nama = "Abra Yudhistira";
     mhs.alamat = "Kasihan";
 
-  
+    cout << "Masukkan NIM = ";
+    cin >> mhs.nim;
+    cout << "Masukkan NAMA = ";
+    cin >> mhs.nama;
+    cout << "Masukkan Alamat = ";
+    cin >> mhs.alamat;
+
+   
+
 }
